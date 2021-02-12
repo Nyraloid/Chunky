@@ -1,0 +1,4 @@
+Chunky is currently a small mod that I recommend using in a modpack.
+
+Update 0.2.0:
+Added beginnings of a new system based on "Skills".
